@@ -30,22 +30,23 @@ B.Tech CSE Student | Aspiring Full-Stack Developer
 ---
 
 ## Connect with Me  
+
 <div align="center">
   <table width="100%">
     <tr>
       <td align="left">
         <a href="https://x.com/ZaidiHaani?t=qD0-WS5XilQ1-s9S1cqyDA&s=09" target="_blank">
-          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" height="35"/>
         </a>
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/haani-zaidi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
         </a>
       </td>
       <td align="right">
         <a href="https://portfolio-website-two-ivory.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+          <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" height="30"/>
         </a>
       </td>
     </tr>

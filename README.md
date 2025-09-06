@@ -54,4 +54,4 @@ B.Tech CSE Student | Aspiring Full-Stack Developer
 </div>
 
 ---
-"Code is like humor. When you have to explain it, it’s bad."
+<p align="center"><i><b>Code is like humor. When you have to explain it, it's bad.</b></i></p>

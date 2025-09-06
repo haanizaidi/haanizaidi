@@ -30,8 +30,8 @@ B.Tech CSE Student | Aspiring Full-Stack Developer
 ---
 
 ## Connect with Me  
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ZaidiHaani?t=qD0-WS5XilQ1-s9S1cqyDA&s=09)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haani-zaidi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ZaidiHaani?t=qD0-WS5XilQ1-s9S1cqyDA&s=09) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haani-zaidi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://portfolio-website-two-ivory.vercel.app/)
 
 ---
